@@ -10,6 +10,6 @@ This data was very fascinating to me, because I saw a friend complaining about U
 
 I ran a few classifiers to determine the nature of these sentiments - positive, negative or neutral. What I found was an overwhelmingly negative perception of these airlines. Both the RandomForestClassifier and Perceptron that I used,classifiers returned the same predictions and accuracy score of 100%.
 
-Also, I attempted to used different features in determining more details about the negatives and found that Bad Customer Service and Late Flights are the most common complaints about these airlines.
+Also, I attempted to use different features in determining more details about the negatives and found that Bad Customer Service and Late Flights are the most common complaints about these airlines.
 
 I also found out that Americans are really angry about their airline services and don’t hold back when expressing their anger...
